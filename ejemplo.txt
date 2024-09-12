@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Actividad en clase :) 
 prueba de GIT
+=======
+Acticidad en clase 
+Prueba de GIT :)
+>>>>>>> 2635b56289c38a7a9c5872901a8ea680760a7ea1
